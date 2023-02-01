@@ -1,4 +1,4 @@
-<h1 align="center">Face-Mask-Detection-and-Attendance-System</h1><div align= "center">
+<h1 align="center">Face-Mask-Detection-and-Attendance-System</h1>
 
 ## This Project contains two sections:
 - Mask detection
